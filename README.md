@@ -1,7 +1,7 @@
 # Exemplo_Async_-Await
 Exemplo prático de Async e Await
 ## Miguel Souza Almeida, Matheus Molon, Lucas M, Lucas B, Kaique 
-### 🔧 Resumo da Função
+### Resumo da Função
 
 Este projeto demonstra o uso de `async` e `await` no JavaScript para buscar dados de forma assíncrona e preencher automaticamente campos de texto em uma página HTML.
 
